@@ -6,4 +6,11 @@ body {
 
 h1 {
   color: navy;
+  
 }
+header img.logo{
+  height: 120px;
+  margin-right: 3rem;
+}
+
+  
