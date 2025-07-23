@@ -13,4 +13,14 @@ header img.logo{
   margin-right: 3rem;
 }
 
-  
+.deadline {
+  font-size: 0.9em;
+  color: #888;
+  margin-left: 10px;
+}
+
+.priority {
+  font-size: 0.9em;
+  color: gold;
+  margin-left: 10px;
+}
